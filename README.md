@@ -2,7 +2,11 @@
  
 - 👀 I’m interested in cybersecurity
 
-- 🌱 I’m currently learning cybersecurity
+- 📖 Learning pentesting and programming
+
+- <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> <img src="https://user-images.githubusercontent.com/62052155/203794444-fc608bdb-2520-4305-bb08-a1ce59e528cd.png">
+
+- <img height="25" width="25" src="https://www.root-me.org/IMG/siteon0.svg" /> https://www.root-me.org/Groot-me-581449
 
 [![Groot-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groot-me&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Groot-me/github-readme-stats)
 
