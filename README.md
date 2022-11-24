@@ -13,5 +13,5 @@
 
 ### Coding Language 
 
-|<img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"> |<img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"> |<img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"> |<img height="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"> 
-|----|-----|---|---|
+<img height="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C"> <img height="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"> <img height="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"> <img height="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"> 
+
