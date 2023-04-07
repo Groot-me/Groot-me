@@ -4,7 +4,7 @@
 
 - 📖 Learning pentesting and programming
 
-- <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> <img src="[https://user-images.githubusercontent.com/62052155/208910353-1036a6a0-a8cd-4df9-a8e8-e421292eab2a.png](https://user-images.githubusercontent.com/62052155/230574815-6ac70e60-b498-485d-b1fb-287c328914b9.png)">
+- <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> <img src="https://user-images.githubusercontent.com/62052155/208910353-1036a6a0-a8cd-4df9-a8e8-e421292eab2a.png">
 
 - <img height="25" width="25" src="https://www.root-me.org/IMG/siteon0.svg" /> https://www.root-me.org/Groot-me-581449
 
