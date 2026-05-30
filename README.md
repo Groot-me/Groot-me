@@ -9,8 +9,6 @@
 
 - <img height="25" width="25" src="https://yt3.googleusercontent.com/WUGRQTroS0n24RxLK068-z46o8_Tr6qwNHzAZEsPQUNop3MOSIA8x7xhAWn73G0iN6dOzdSIgA=s160-c-k-c0x00ffffff-no-rj" /> https://www.root-me.org/Groot-me-581449
 
-[![Groot-me's GitHub stats]()](https://github.com/Groot-me/github-readme-stats)
-
 ### Favorite Tool :
 
 [![Readme Card]()](https://github.com/Groot-me/NotWireshark)
