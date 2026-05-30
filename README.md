@@ -7,14 +7,13 @@
 - <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> https://app.hackthebox.com/profile/539331
 <img src="https://user-images.githubusercontent.com/62052155/230574815-6ac70e60-b498-485d-b1fb-287c328914b9.png">
 
-- <img height="25" width="25" src="https://www.root-me.org/IMG/siteon0.svg" /> https://www.root-me.org/Groot-me-581449
+- <img height="25" width="25" src="https://yt3.googleusercontent.com/WUGRQTroS0n24RxLK068-z46o8_Tr6qwNHzAZEsPQUNop3MOSIA8x7xhAWn73G0iN6dOzdSIgA=s160-c-k-c0x00ffffff-no-rj" /> https://www.root-me.org/Groot-me-581449
 
-[![Groot-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groot-me&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Groot-me/github-readme-stats)
-
+[![Groot-me's GitHub stats]()](https://github.com/Groot-me/github-readme-stats)
 
 ### Favorite Tool :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Groot-me&repo=NotWireshark)](https://github.com/Groot-me/NotWireshark)
+[![Readme Card]()](https://github.com/Groot-me/NotWireshark)
 
 ### Coding Language 
 
